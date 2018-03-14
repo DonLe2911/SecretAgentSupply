@@ -1,1 +1,39 @@
+body {
+  font-size: 18px;
+  font-family: helvetica;
+}
 
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+/*Header*/
+.header {
+  background-color: black;
+}
+
+.header .container {
+  color: white;
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 0.66rem 0 0.66rem 1rem;
+  font-size: 1rem;
+}
+
+.header img {
+  margin-left: 0.5rem;
+  margin-top: 0.66rem;
+  margin-bottom: 0.66rem;
+  height: 1.5rem;
+}
+
+
+.box {
+  color: white;
+  background-color: black;
+}
