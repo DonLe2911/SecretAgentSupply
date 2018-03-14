@@ -62,3 +62,22 @@ body {
   font-weight: bold;
   font-size: 1rem;
 }
+
+/*Nav*/
+
+nav {
+  background-color: firebrick;
+}
+
+nav ul {
+  display: flex;
+  margin: 0;
+  padding: 0.75em 0;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+
+}
