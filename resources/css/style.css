@@ -132,3 +132,15 @@ padding: 0.5em;
 .info {
   width: 35%;
 }
+
+/*footer*/
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: left;
+  height: 5em;
+  width: 100%;
+  margin: 4em 0 0 0;
+  padding: 5em 0;
+}
